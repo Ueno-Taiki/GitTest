@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Githab!");
+            Console.WriteLine("LC1C_04_ウエノ_タイキ");
+
         }
     }
 }
