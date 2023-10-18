@@ -9,6 +9,7 @@
             Console.WriteLine("2023/10/11");
             Console.WriteLine("player作成");
             Console.WriteLine("マージしてください");
+            Console.WriteLine("マージ禁止");
 
         }
     }
