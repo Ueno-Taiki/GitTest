@@ -7,7 +7,8 @@
             Console.WriteLine("Hello, Githab!");
             Console.WriteLine("LC1C_04_ウエノ_タイキ");
             Console.WriteLine("2023/10/11");
-
+            Console.WriteLine("マージしてください2");
+            Console.WriteLine("マージ拒否");
         }
     }
 }
