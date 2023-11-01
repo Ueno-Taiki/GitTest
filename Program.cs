@@ -10,8 +10,7 @@
             Console.WriteLine("player作成");
             Console.WriteLine("マージしてください");
             Console.WriteLine("マージ禁止");
-            Console.WriteLine("プルリクエストしてから作業");
-
+            Console.WriteLine("プルリクエストの作成");
         }
     }
 }
