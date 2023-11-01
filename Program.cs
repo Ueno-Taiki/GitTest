@@ -10,6 +10,7 @@
             Console.WriteLine("player作成");
             Console.WriteLine("マージしてください");
             Console.WriteLine("マージ禁止");
+            Console.WriteLine("プルせずに作業した");
 
         }
     }
