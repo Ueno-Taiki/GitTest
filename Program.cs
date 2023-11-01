@@ -11,6 +11,7 @@
             Console.WriteLine("マージしてください");
             Console.WriteLine("マージ禁止");
 
+
         }
     }
 }
