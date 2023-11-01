@@ -12,6 +12,7 @@
             Console.WriteLine("マージ禁止");
             Console.WriteLine("プルせずに作業した");
 
+
         }
     }
 }
